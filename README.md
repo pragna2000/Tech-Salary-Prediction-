@@ -4,9 +4,9 @@
 This project attempts to use machine learning algorithms to predict an induviduals salary based on variables such as their experience, their company, how long they have been working at the company and more. In this repo you will find linear ression, random forest regrssion, and deep learning machine learning models and the comparision of the models. 
 
 # Data
-Type: CSV
-Input: 
-    Vairables: 'company', 'level', 'title', 'totalyearlycompensation', 'location',
+-Type: CSV
+-Input: 
+    -Vairables: 'company', 'level', 'title', 'totalyearlycompensation', 'location',
        'yearsofexperience', 'yearsatcompany', 'tag', 'basesalary',
        'stockgrantvalue', 'bonus', 'gender', 'otherdetails', 'cityid', 'dmaid',
        'rowNumber', 'Masters_Degree', 'Bachelors_Degree', 'Doctorate_Degree',
