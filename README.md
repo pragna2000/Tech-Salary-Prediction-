@@ -1,7 +1,7 @@
 # Tech-Salary-Prediction
 
 # The Project:
-This project attempts to use machine learning algorithms to predict an induviduals salary based on variables such as their experience, their company, how long they have been working at the company and more. 
+This project attempts to use machine learning algorithms to predict an induviduals salary based on variables such as their experience, their company, how long they have been working at the company and more. In this repo you will find linear ression, random forest regrssion, and deep learning machine learning models and the comparision of the models. 
 
 # Data
 Type: CSV
